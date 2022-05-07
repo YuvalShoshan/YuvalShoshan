@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @YuvalShoshan
+- 👀 I’m interested in learning new coding languages and start developing my own codes.
+- 🌱 I’m currently learning discord.js and java
+- 📫 You'll be able to reach me on Discord! - Yuval#5720
